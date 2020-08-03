@@ -1,2 +1,2 @@
 # SimplePythonBlockchain
-Source code for a simple blockchain in Python from Maximilian's udemy course 'Python: The Practical Guide'
+A minimum viable blockchain in Python
